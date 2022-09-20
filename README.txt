@@ -1,5 +1,2 @@
-#Readme
-#modiefied
-simple readme file
-#sent to update branch
-#dinagdagan ko lang ng text konti :D 
+#Demo Project
+#Made this readmetext for education purpose this is trouble
